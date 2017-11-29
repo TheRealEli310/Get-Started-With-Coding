@@ -1,2 +1,2 @@
-# Get-Started-With-Coding
+# Get Started With Coding
 Learn the basics of coding.
